@@ -6,7 +6,7 @@ Instead of standing in long queues and handling paperwork, users can apply for a
 
 This project mainly focuses on **student and daily commuter pass management**.
 
----
+--- 
 
 ## 🎯 Objectives
 - Reduce manual work and paperwork
