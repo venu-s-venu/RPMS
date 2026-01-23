@@ -4,7 +4,7 @@ error_reporting(0);
 include('includes/dbconnection.php');
 if(strlen($_SESSION['bpmsaid']==0)){
   header('location:logout.php');
-  } else{
+  } else{ 
     $vid=$_GET['viewid'];
 $isread=1;
 $sql="update tblenquiry set IsRead=:isread where ID=:vid";
@@ -96,4 +96,5 @@ foreach($results as $row)
     </body>
     </html>
     <?php }  ?>
+
                             
