@@ -4,7 +4,7 @@
 The **Railway Pass Management System** is a web-based mini project developed to simplify the process of applying for railway passes online.  
 Instead of standing in long queues and handling paperwork, users can apply for a railway pass through this website in a faster and more organized way.
 
-This project mainly focuses on **student and daily commuter pass management**.
+This project mainly focuses on **student and daily commuter pass management**. 
 
 --- 
 
