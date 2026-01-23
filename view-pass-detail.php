@@ -5,7 +5,7 @@ include('includes/dbconnection.php');
 if(strlen($_SESSION['bpmsaid']==0)){
   header('location:logout.php');
   } else{
-  ?>
+  ?> 
 <!DOCTYPE html>
 <html>
 <head>
@@ -133,4 +133,5 @@ foreach($results as $row)
     <script src="assets/scripts/siminta.js"></script>
 </body>
 </html>
+
 <?php }  ?>
