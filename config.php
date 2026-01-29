@@ -1,6 +1,6 @@
 <?php
 // Database configuration
-$host = "localhost";
+$host = "localhost"; 
 $user = "root";        // change if hosting server
 $password = "";        // change if hosting server
 $database = "rpms";
@@ -13,4 +13,5 @@ if (!$conn) {
     die("Database Connection Failed: " . mysqli_connect_error());
 }
 ?>
+
 
